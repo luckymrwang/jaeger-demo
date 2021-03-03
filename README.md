@@ -1,2 +1,2 @@
 # jaeger-demo
-jaeger trace demo
+jaeger trace golang demo
